@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hi, I’m Sandeep Singh Negi
 
-<!--
-**SANDEEPNEGI07/SANDEEPNEGI07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third-year Software Engineering student at GL Bajaj Institute of Technology and Management
 
-Here are some ideas to get you started:
+💻 Passionate about AI, NLP, and Software Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skilled in Python, basics of C++ and SQL, Problem-Solving,
+
+📚 Currently exploring Data Structures & Algorithms (DSA) and working on Machine Learning
+
+🌟 Building projects like GRASPER (an NLP-based tool)
+
+🚀 Open to collaborations, hackathons, and opportunities in AI and Software Engineering
+
+📩 Let’s connect : Email and Linkedin
+
