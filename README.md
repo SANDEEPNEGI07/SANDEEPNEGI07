@@ -62,6 +62,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sandeepnegi3090)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-negi5898/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandeepnegi5898@gmail.com)
+[![Leetcode](https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Sandeep_Singh5898/)
 
 ---
 
