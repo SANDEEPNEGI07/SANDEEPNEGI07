@@ -56,6 +56,9 @@
 </p>
 
 ---
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/SANDEEPNEGI07/SANDEEPNEGI07/output/snake.svg" alt="Snake animation" />
 
 ## 🌐 Socials
 
