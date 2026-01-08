@@ -45,39 +45,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/C++-3670A0?style=for-the-badge&logo=c++&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Docker](https://img.shields.io/badge/Docker-3670A0.svg?style=for-the-badge&logo=docker&logoColor=white) ![Flask](https://img.shields.io/badge/flask-black.svg?style=for-the-badge&logo=flask&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-purple.svg?style=for-the-badge&logo=insomnia&logoColor=white) ![Git](https://img.shields.io/badge/Git-red.svg?style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-black.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-blue.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/Github_Actions-black.svg?style=for-the-badge&logo=githuba-ction&logoColor=white) ![Rest-api](https://img.shields.io/badge/rest_api-purple.svg?style=for-the-badge&logo=rest_api&logoColor=white)
 
 
-
-
-
-## 🚀 Projects
-
-### **SplitFree** – *Manages expenses and splits between friends*
-> Tech: Flask, React, Docker <br>
-- Manage the expense and splits for the user  <br>
-- Clean and modular code structure using flask_smorest <br>
-- Jwt authentication for secure communication. <br>
-
----
-
-### **Grasper** – *Text Analyzer*
-> Tech: Flask, HTML, CSS, spaCy, KeyBert, NLTK
-- NLP Tool which integrates 3 features - NER, Sentiment Analysis and KeyPhrase Extraction
-- Text Analyzer
-
----
-
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SANDEEPNEGI07&theme=react&show_icons=true&hide_border=false" height="180"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANDEEPNEGI07&theme=react&layout=compact&hide_border=false" height="180"/>
-</p>
-
----
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/SANDEEPNEGI07/SANDEEPNEGI07/output/snake.svg" alt="Snake animation" />
 
 ## 🌐 Socials
